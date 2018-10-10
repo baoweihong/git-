@@ -1,3 +1,22 @@
+mkdir 文件夹名 创建一个文件夹;
+rm -rf 文件名
+
+touch 文件名 创建一个文件; 	
+
+clear 清屏
+
+cd 文件夹路径/  进入对应文件;
+cd .. 回退一级文件 
+
+vim 文件名 ;
+
+i 进入插入模式;
+
+esc + :wq 保存并推出;
+
+ctrl + c + c; 强制终止程序;
+
+ls 查看当前目录下所有文件的指令;
 * 只要设置一次;
 ** 当前项目只需要设置一次;
 
@@ -30,4 +49,4 @@ git init;
 
 git remote 远程仓库设置; 设置成  add  名字叫做 origin（代表项目路径） 项目路径
 
-10. git push -u origin master; 本地仓库推送到远端仓库;
+10. git push -u origin$ remote: Invalid username or password.
